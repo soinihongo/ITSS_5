@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="employeeManagementSystem.jnlp">
+  <information>
+    <title>employeeManagementSystem</title>
+    <vendor>WINDOWS 10</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="employeeManagementSystem.jar" size="26521" download="eager" />
+    <jar href="lib\fontawesomefx-8.2.jar" size="180341" download="eager" />
+    <jar href="lib\hamcrest-core-1.3.jar" size="45024" download="eager" />
+    <jar href="lib\javafx-swt.jar" size="37119" download="eager" />
+    <jar href="lib\javafx.base.jar" size="755038" download="eager" />
+    <jar href="lib\javafx.controls.jar" size="2577983" download="eager" />
+    <jar href="lib\javafx.fxml.jar" size="130176" download="eager" />
+    <jar href="lib\javafx.graphics.jar" size="4272241" download="eager" />
+    <jar href="lib\javafx.media.jar" size="278549" download="eager" />
+    <jar href="lib\javafx.swing.jar" size="89688" download="eager" />
+    <jar href="lib\javafx.web.jar" size="727749" download="eager" />
+    <jar href="lib\jcommon-1.0.23.jar" size="330246" download="eager" />
+    <jar href="lib\jfreechart-1.0.19-experimental.jar" size="13796" download="eager" />
+    <jar href="lib\jfreechart-1.0.19-swt.jar" size="79793" download="eager" />
+    <jar href="lib\jfreechart-1.0.19.jar" size="1570157" download="eager" />
+    <jar href="lib\jfreesvg-2.0.jar" size="50769" download="eager" />
+    <jar href="lib\junit-4.11.jar" size="245039" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.23-bin.jar" size="843090" download="eager" />
+    <jar href="lib\ojdbc14-10.2.0.4.0.jar" size="1555682" download="eager" />
+    <jar href="lib\orsoncharts-1.4-eval-nofx.jar" size="445025" download="eager" />
+    <jar href="lib\orsonpdf-1.6-eval.jar" size="72444" download="eager" />
+    <jar href="lib\servlet.jar" size="80054" download="eager" />
+    <jar href="lib\swtgraphics2d.jar" size="17492" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="employeemanagementsystem.EmployeeManagementSystem"  name="employeeManagementSystem" />
+  <update check="always"/>
+</jnlp>
